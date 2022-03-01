@@ -30,3 +30,7 @@ function changeBtnsStyle() {
     });
   }
 }
+
+function hideSVG() {
+  document.getElementById("greenFlower").style.display = "none";
+}
